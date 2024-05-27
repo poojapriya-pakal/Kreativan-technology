@@ -330,11 +330,11 @@ h1 {
 
 
 .image img {
-    width: 70%;
+    width: 500px;
 }
 
 .card {
-    width: 250%;
+    width: 350px;
     height: 345px;
     /* box-shadow: 5px 5px 20px black; */
     overflow: hidden;
@@ -375,7 +375,7 @@ h1 {
     margin: 7px 7px 7px 7px;
     opacity: .8;
     box-sizing: border-box;
-    width: 50%;
+    width: 500px;
     background: rgb(5, 1, 1);
     position: relative;
     bottom: 410px;
